@@ -53,6 +53,9 @@ dependencies:
   # For reactive programming using dart
   rxdart: ^0.24.1
 
+  # Google fornts
+  google_fonts: ^0.3.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

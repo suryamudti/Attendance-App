@@ -8,6 +8,12 @@ class HistoryPage extends StatefulWidget {
 class _HistoryPageState extends State<HistoryPage> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+
+        title: Text("History Attendance"),
+        centerTitle: true,
+      ),
+    );
   }
 }

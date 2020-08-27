@@ -19,6 +19,21 @@ class App extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: HomePage(),
+      theme: ThemeData(
+          primaryColor: Colors.white,
+          tabBarTheme: TabBarTheme(
+            labelColor: Colors.black38,
+          ),
+          appBarTheme: AppBarTheme(
+              iconTheme: IconThemeData(
+                  color: Colors.black
+              ),
+              color: Colors.white,
+              textTheme: TextTheme(
+                  title: TextStyle(color: Colors.black)
+              )
+          )
+      ),
     );
   }
 }
