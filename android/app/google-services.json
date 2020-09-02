@@ -54,7 +54,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:396467899033:android:fd030feeb5607971664608",
         "android_client_info": {
-          "package_name": "com.example.flutter_firebase_storage"
+          "package_name": "com.smile.attendance"
         }
       },
       "oauth_client": [

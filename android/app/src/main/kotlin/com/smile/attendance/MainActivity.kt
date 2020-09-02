@@ -1,4 +1,4 @@
-package com.example.flutter_firebase_storage
+package com.smile.attendance
 
 import io.flutter.embedding.android.FlutterActivity
 
